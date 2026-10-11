@@ -3,9 +3,10 @@
 Final-year **Computer Engineering** student at Kütahya Dumlupınar University, focused on **Computer Vision** and **AI**.
 I like building real-time vision systems that solve practical problems — workplace safety, automatic data labeling, and gesture-based interaction.
 
-- Looking for **internship / junior roles in Computer Vision & AI**
-- Currently working with **YOLO, object tracking and dataset automation**
-- LinkedIn: [linkedin.com/in/hamdigürel](https://www.linkedin.com/in/hamdig%C3%BCrel)
+- Completed a **Computer Vision & AI internship** at UZMAR Technology (2026)
+- Open to **junior roles in Computer Vision & AI** after graduating in 2026
+- Working with **YOLO, object tracking and dataset automation**
+- LinkedIn: [linkedin.com/in/hamdigurel](https://www.linkedin.com/in/hamdigurel)
 
 ## Tech Stack
 
@@ -23,4 +24,4 @@ Python · OpenCV · Ultralytics YOLO · TensorFlow / Keras · MediaPipe · NumPy
 
 ## Contact
 
-Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/hamdig%C3%BCrel) for collaboration or opportunities.
+Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/hamdigurel) for collaboration or opportunities.
